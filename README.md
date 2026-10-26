@@ -15,12 +15,14 @@ Survivors Roguelike - Multiplayer Game Template 기반으로
 ## Download
 
 [Windows 빌드 다운로드] (https://drive.google.com/file/d/1GIcO7cqGJJ3k_sDCIONA3Myvp2SKze4S/view?usp=sharing)
-
 ## Gameplay Video
 
-[게임 플레이 영상] (영상 링크)
-
-
+[게임 플레이 영상]
+https://youtu.be/nwsaq0U5DMM
+[캐릭터 해금 영상]
+https://youtu.be/ukmXn8_soLg
+[테스트 맵 플레이 영상]
+https://youtu.be/h9leDndiSi0
 
 ## A. 새로 추가한 부분
 
