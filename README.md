@@ -4,6 +4,8 @@
 **Updated:** 2026-10-26
 **Platform:** Windows
 
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c0813182-9d83-40b9-ba99-8d07c1a23534" />
+
 Survivors Roguelike - Multiplayer Game Template 기반으로
 개발한 로그라이크 서바이벌 프로젝트입니다.
 
