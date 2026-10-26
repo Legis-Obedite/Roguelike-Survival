@@ -1,10 +1,22 @@
-Roguelike Survival
+# Roguelike Survival
 
-작성일: 2026-10-26 / Unreal Engine 5.8
+**Engine:** Unreal Engine 5.8
+**Updated:** 2026-10-26
+**Platform:** Windows
 
-SurvivorsTemplate 기반 개발입니다.
+Survivors Roguelike - Multiplayer Game Template 기반으로
+개발한 로그라이크 서바이벌 프로젝트입니다.
+
 자동 공격, 경험치, 레벨업, 진화 조건, 기본 적 AI, 웨이브, 드롭, 상자, 캐릭터 구매, 저장, 기본 UI는 기존 템플릿을 활용했습니다.
 모델, 스켈레톤, 원본 애니메이션 등은 Epic Store의 Paragon 리소스를 활용했습니다.
+
+## Download
+
+[Windows 빌드 다운로드] (구드 링크)
+
+## Gameplay Video
+
+[게임 플레이 영상] (영상 링크)
 
 
 A. 새로 추가한 부분
