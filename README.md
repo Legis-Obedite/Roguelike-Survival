@@ -170,7 +170,7 @@ Survivors Roguelike - Multiplayer Game Template 기반으로
 
 
 
-### C. 라이센스 
+## C. 라이센스 
 
 All rights reserved unless otherwise stated.
 
